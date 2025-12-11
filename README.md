@@ -30,9 +30,5 @@ Here are some ideas to get you started:
 <!--# 📊 GitHub Stats:-->
 
 ---
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DHurtado714/count.svg?"  />
-</div>
-
 ##
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
