@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DHurtado714-itesm/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/DHurtado714/count.svg?"  />
 </div>
 
 ##
