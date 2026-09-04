@@ -4,10 +4,6 @@
 
 **Backend Engineer · Payments & Identity Infrastructure**
 
-<a href="https://danih.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=620&height=40&lines=Moving+money+between+banks+and+blockchains;SPEI+SEPA+US+wire+and+stablecoin+ramps;Idempotency+reconciliation+and+state+machines" alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![Website](https://img.shields.io/badge/danih.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danih.dev)
