@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a4d6d,100:2d9cdb&height=180&section=header&text=Daniel%20Hurtado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20·%20Payments%20%26%20Identity%20Infrastructure&descAlignY=52&descSize=16" width="100%" />
+# Daniel Hurtado
+
+**Backend Engineer · Payments & Identity Infrastructure**
 
 <a href="https://danih.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=650&lines=Moving+money+between+banks+and+blockchains;SPEI+%C2%B7+SEPA+%C2%B7+US+wire+%C2%B7+stablecoin+ramps;Idempotency%2C+reconciliation%2C+state+machines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=620&height=40&lines=Moving+money+between+banks+and+blockchains;SPEI+SEPA+US+wire+and+stablecoin+ramps;Idempotency+reconciliation+and+state+machines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,20 +48,16 @@ const daniel = {
 ### Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHurtado714&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB&icon_color=2D9CDB&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHurtado714&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2D9CDB&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DHurtado714&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHurtado714&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHurtado714&theme=github-compact&hide_border=true&bg_color=0D1117&color=2D9CDB&line=2D9CDB&point=ffffff&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHurtado714&theme=github-compact&hide_border=true" width="98%" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DHurtado714/DHurtado714/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9cdb,50:1a4d6d,100:0D1117&height=100&section=footer" width="100%" />
 </div>
