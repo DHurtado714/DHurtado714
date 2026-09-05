@@ -40,7 +40,3 @@ const daniel = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DHurtado714/DHurtado714/output/snake.svg" alt="Snake animation" />
-</div>
