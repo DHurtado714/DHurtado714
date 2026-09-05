@@ -41,19 +41,6 @@ const daniel = {
 
 ---
 
-### Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DHurtado714&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHurtado714&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHurtado714&theme=github-compact&hide_border=true" width="98%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/DHurtado714/DHurtado714/output/snake.svg" alt="Snake animation" />
 </div>
