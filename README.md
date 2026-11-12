@@ -65,13 +65,13 @@ transfer:  INITIATED ─▶ SCREENED ─▶ FUNDED ─▶ SETTLED ─▶ RECONCI
 
 <img src="./assets/stack.svg" alt="Stack ledger" width="100%" />
 
-<br/>
+<!-- <br/>
 
 ## Selected work
 
 - **[danih.dev](https://danih.dev)**: personal site on Next.js App Router, with SEO, GEO and `llms.txt` infrastructure built in.
 - **`nextjs-app-router` skill**: a Claude Code skill that encodes how I build Next.js 16 apps with Next as the full backend: data access layer, Server Actions, auth, caching, i18n, SEO, performance.
-- **Personal agent suite**: research and monitoring agents on a shared Bun monorepo, built as portfolio pieces and tutorial material.
+- **Personal agent suite**: research and monitoring agents on a shared Bun monorepo, built as portfolio pieces and tutorial material. -->
 
 <br/>
 
