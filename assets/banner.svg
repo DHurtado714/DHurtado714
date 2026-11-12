@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Daniel Hurtado — Backend engineer. Money movement, identity and compliance.">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.9" fill="#1a2330"/></pattern>
+    <radialGradient id="glow" cx="0.88" cy="0.05" r="0.7"><stop offset="0" stop-color="#f5b841" stop-opacity="0.16"/><stop offset="1" stop-color="#f5b841" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="1" r="0.6"><stop offset="0" stop-color="#5eead4" stop-opacity="0.08"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="340" rx="18" fill="#0b0f14"/>
+  <rect width="1000" height="340" rx="18" fill="url(#dots)"/>
+  <rect width="1000" height="340" rx="18" fill="url(#glow)"/>
+  <rect width="1000" height="340" rx="18" fill="url(#glow2)"/>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="17.5" fill="none" stroke="#1e2733"/>
+
+  <text x="48" y="56" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.5" fill="#f5b841">TXN 0001 · MXN → USDC → USD</text>
+
+  <rect x="768" y="36" width="184" height="28" rx="14" fill="#0f1a18" stroke="#24403a"/>
+  <circle cx="790" cy="50" r="4" fill="#5eead4"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="804" y="54.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#9fe8d8">open to remote work</text>
+
+  <text x="46" y="132" font-family="Inter, 'SF Pro Display', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#f4f1ea">Daniel Hurtado</text>
+  <text x="48" y="174" font-family="Inter, 'SF Pro Display', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#aab4c0">Backend engineer. I move money between bank rails and chains,</text>
+  <text x="48" y="201" font-family="Inter, 'SF Pro Display', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#aab4c0">and make sure it <tspan fill="#f5b841" font-weight="600">adds up</tspan>.</text>
+  <text x="48" y="234" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="1" fill="#6b7685">payments · identity · compliance · agents</text>
+
+  <line x1="90" y1="280" x2="910" y2="280" stroke="#243041" stroke-width="2"/>
+  <line x1="90" y1="280" x2="90" y2="280" stroke="#f5b841" stroke-width="2">
+    <animate attributeName="x2" dur="10s" repeatCount="indefinite" keyTimes="0;0.8;0.95;1" values="90;910;910;90"/>
+  </line>
+  
+  <circle cx="90" cy="280" r="7" fill="#0b0f14" stroke="#3a4658" stroke-width="2">
+    <animate attributeName="fill" dur="10s" repeatCount="indefinite" keyTimes="0;0.95;1" values="#f5b841;#f5b841;#0b0f14"/>
+    <animate attributeName="stroke" dur="10s" repeatCount="indefinite" keyTimes="0;0.95;1" values="#f5b841;#f5b841;#3a4658"/>
+  </circle>
+  <text x="90" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6b7685">INITIATED</text>
+  <circle cx="295" cy="280" r="7" fill="#0b0f14" stroke="#3a4658" stroke-width="2">
+    <animate attributeName="fill" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.205;0.95;1" values="#0b0f14;#0b0f14;#f5b841;#f5b841;#0b0f14"/>
+    <animate attributeName="stroke" dur="10s" repeatCount="indefinite" keyTimes="0;0.2;0.205;0.95;1" values="#3a4658;#3a4658;#f5b841;#f5b841;#3a4658"/>
+  </circle>
+  <text x="295" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6b7685">SCREENED</text>
+  <circle cx="500" cy="280" r="7" fill="#0b0f14" stroke="#3a4658" stroke-width="2">
+    <animate attributeName="fill" dur="10s" repeatCount="indefinite" keyTimes="0;0.4;0.405;0.95;1" values="#0b0f14;#0b0f14;#f5b841;#f5b841;#0b0f14"/>
+    <animate attributeName="stroke" dur="10s" repeatCount="indefinite" keyTimes="0;0.4;0.405;0.95;1" values="#3a4658;#3a4658;#f5b841;#f5b841;#3a4658"/>
+  </circle>
+  <text x="500" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6b7685">FUNDED</text>
+  <circle cx="705" cy="280" r="7" fill="#0b0f14" stroke="#3a4658" stroke-width="2">
+    <animate attributeName="fill" dur="10s" repeatCount="indefinite" keyTimes="0;0.6000000000000001;0.605;0.95;1" values="#0b0f14;#0b0f14;#f5b841;#f5b841;#0b0f14"/>
+    <animate attributeName="stroke" dur="10s" repeatCount="indefinite" keyTimes="0;0.6000000000000001;0.605;0.95;1" values="#3a4658;#3a4658;#f5b841;#f5b841;#3a4658"/>
+  </circle>
+  <text x="705" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6b7685">SETTLED</text>
+  <circle cx="910" cy="280" r="7" fill="#0b0f14" stroke="#3a4658" stroke-width="2">
+    <animate attributeName="fill" dur="10s" repeatCount="indefinite" keyTimes="0;0.8;0.805;0.95;1" values="#0b0f14;#0b0f14;#5eead4;#5eead4;#0b0f14"/>
+    <animate attributeName="stroke" dur="10s" repeatCount="indefinite" keyTimes="0;0.8;0.805;0.95;1" values="#3a4658;#3a4658;#5eead4;#5eead4;#3a4658"/>
+  </circle>
+  <text x="910" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6b7685">RECONCILED</text>
+  <g>
+    <circle r="12" fill="#f5b841" opacity="0.22"/><circle r="4.5" fill="#fff6e0"/>
+    <animateMotion dur="10s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.8;1" path="M90,280 H910"/>
+  </g>
+</svg>
